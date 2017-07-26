@@ -14,6 +14,7 @@ This 3 hour workshop will walk you through the basics of Git and GitHub.
 _By the end of this section, students should have Git installed on their computers._
 
 For installation instructions, please see [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+Windows users will also need to install [Git Bash](https://git-for-windows.github.io)
 
 
 ## Creating GitHub account
@@ -90,6 +91,7 @@ the original repository.
 
 ## Next Steps
 That's it for today! Here are some resources to further your understanding of Git:
+- [Git Desktop App](https://desktop.github.com)
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Atlassin Git Tutorials](https://www.atlassian.com/git/tutorials)
