@@ -1,6 +1,6 @@
 # Introduction to Git
 
-This 3 hour workshop will walk you through the basics of Git and GitHub.
+This 2 hour workshop will walk you through the basics of Git and GitHub.
 
 ## Objectives
 - Install Git
@@ -14,14 +14,13 @@ This 3 hour workshop will walk you through the basics of Git and GitHub.
 _By the end of this section, students should have Git installed on their computers._
 
 For installation instructions, please see [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-Windows users will also need to install [Git Bash](https://git-for-windows.github.io)
 
+Windows users will also need to install [Git Bash](https://git-for-windows.github.io)
 
 ## Creating GitHub account
 _By the end of this section, students should have a GitHub account that they can work with._
 
 Create an account on GitHub by going to [https://github.com](https://github.com) and Signing Up for an account. 
-
 
 ## Introduction to Git
 _By the end of this section, students should be familiar with what Git is and why it's important to learn._
@@ -34,7 +33,7 @@ across a collection of files. When we use Git, we can see what changes
 we made and seamlessly merge them with changes our coworker made.
 
 If you've worked with track changes in Microsoft Word, then you're
-familiar with part of what Git does for. Track changes will track any
+familiar with part of what Git does. Track changes will track any
 changes (inserted text, deleted text, etc) to a document. It will mark
 those changes by highlighting them in red or green. Git does this. It
 also does a lot more. For example, if you and your coworker are writing
@@ -57,15 +56,13 @@ tracks changes line by line and can handle merging changes between
 different versions of documents for you.
 
 ## Working With Git
-_By the end of this section, students should understand what a repository is and how to create one. They should also understand how Git tracks changes to files, how to stage and commit changes
-and then push them to GitHub._
+_By the end of this section, students should understand what a repository is and how to create one. They should also understand how Git tracks changes to files, how to stage and commit changes and then push them to GitHub._
 
 Create a repository: `git init`
 Saving Changes:
   1. `git add -A`
   2. `git commit -m "a commit message"`
 Pushing changes: `git push origin master`
-
 
 ## Working with Remotes
 _By the end of this section, students should understand how to work with remote repositories hosted on GitHub._
